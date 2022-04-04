@@ -1,4 +1,3 @@
-# !pip install --upgrade google-cloud-storage
 import os
 from google.cloud import storage
 import json
